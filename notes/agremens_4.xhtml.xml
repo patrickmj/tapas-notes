@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp692400">
+      <mentioned id="idp692528">Maltotier</mentioned> : <cit id="idp692944">
+         <quote id="idp693120">s.m. Celui qui exige des droits qui ne sont point dûs, ou qui ont été imposés sans autorité légitime. <hi id="idp693712" style="font-style: italic;">C'est un Maltôtier</hi>. Il se dit aussi par abus De ceux qui recueillent toute sorte de nouvelles impositions</quote>
+      </cit>.<lb id="idp694640"/>
+      <lb id="idp694768"/>
+      <bibl id="idp694896">
+         <title id="idp695024" level="a">Maltôtier</title>, <title id="idp695680" level="m">Dictionnaire de l'Académie française en ligne</title> (1762), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 24 août 2009.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp762768">Ici, Dubois de Chastignay parle probablement du saucisson de <emph id="idp763104" style="font-style: italic;">
+         <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#bologne" target="references.xml#bologne" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.bologne">Bologne</a>
+      </emph>, ville en Italie ; en français moderne, la locution <mentioned id="idp764624">saucisson de Bologne</mentioned> (<soCalled id="idp765088">baloney</soCalled>) signifie un gros saucisson fait de porc, de veau et de bœuf.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1366864">
+      <mentioned id="idp1366992">Piſtoles</mentioned> : <cit id="idp1367408">
+         <quote id="idp1367536">s. f. Monnoye d'or estrangere du poids du loüis d'or. [...] Ordinairement quand on dit <hi id="idp1367984" style="font-style: italic;">Pistole</hi>, sans ajouster <hi id="idp1368704" style="font-style: italic;">d'or</hi>, on n'entend que la valeur de dix francs</quote>
+      </cit>.<lb id="idp1369584"/>
+      <lb id="idp1369712"/>
+      <bibl id="idp1369840">
+         <title id="idp1369968" level="a">Pistole</title>, <title id="idp1370624" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 24 août 2009.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1381936">
+      <mentioned id="idp1382064">Piſtoles</mentioned> : <cit id="idp1382480">
+         <quote id="idp1382608">s. f. Monnoye d'or estrangere du poids du loüis d'or. [...] Ordinairement quand on dit <hi id="idp1383056" style="font-style: italic;">Pistole</hi>, sans ajouster <hi id="idp1383664" style="font-style: italic;">d'or</hi>, on n'entend que la valeur de dix francs</quote>
+      </cit>.<lb id="idp1384544"/>
+      <lb id="idp1384672"/>
+      <bibl id="idp1384800">
+         <title id="idp1384928" level="a">Pistole</title>, <title id="idp1385584" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 24 août 2009.</bibl>
+   </note>
+</notes>

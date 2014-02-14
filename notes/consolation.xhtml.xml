@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp119984">
+      <quote id="idp120112">Pierre</quote> : Nom courant pour le mari cocu.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp151696">
+      <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#moise" target="references.xml#moise" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.moise">Moïse</a> est parfois dépeint avec des cornes (v. par exemple la sculpture de Michelange). Cette représentation est due à une erreur qui apparaît dans la traduction de l'hébreu vers le latin. Dans la légende, lorsque Moïse redescend du Mont Sinaï afin d'obtenir de Dieu de nouvelles tables de la Loi, il aurait <quote id="idp153568">rayonné</quote> : pour reprendre le passage de la Bible, <cit id="idp154048">
+         <quote id="idp154176">Quand il descendit de la montagne, il ne savait pas, lui, Moïse, que la peau de son visage était devenue rayonnante en parlant avec le Seigneur</quote>
+      </cit> (<a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#exode" target="references.xml#exode" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.exode">Exode</a>). Le latin a confondu <mentioned id="idp155936">rayonnant</mentioned> avec le mot hébreu pour <mentioned id="idp156416">cornu</mentioned>, ainsi faisant naître un motif artistique et littéraire qui demeure frappant de nos jours.</note>
+</notes>

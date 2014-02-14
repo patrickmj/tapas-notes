@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2154048">
+      <mentioned id="idp2154176">Chat-Huant</mentioned> : <cit id="idp2154640">
+         <quote id="idp2154864">Oiseau de proie de la famille des Nocturnes dont l'apparence ou le cri rappelle quelque peu le chat</quote>
+      </cit>.<lb id="idp2155360"/>
+      <lb id="idp2155488"/>
+      <bibl id="idp2155616">
+         <title id="idp2155744" level="a">Chat-Huant</title>, <title id="idp2156400" level="m">Centre National de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 3 août 2011.</bibl>
+   </note>
+</notes>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp546640">
+      <mentioned id="idp546768">Sémondre</mentioned> : inviter, convier à une cérémonie ou à quelque action publique.<lb id="idp547344"/>
+      <lb id="idp547472"/>
+      <bibl id="idp547600">Cayrou, Gaston, <title id="idp547888" level="a">Sémondre</title>, <title id="idp548432" level="m">Dictionnaire du français classique : la langue du XVIIe sicèle</title>, Paris, Klincksieck, 1924, rééd. Paris, Librairie Générale Française, 2000, Imprimé.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp562704">
+      <quote id="idp562832">
+         <foreign id="idp562960" xml:lang="la">Alba Spina</foreign>
+      </quote> : terme latin pour <gloss id="idp563696">aubépine</gloss>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp645488">
+      <quote id="idp645616">Candiots</quote> : autre nom pour les Crétois.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp756048">
+      <quote id="idp756176">Panurgique</quote> : à la manière du Panurge de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#rabelaisFrancois" target="references.xml#rabelaisFrancois" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.rabelaisFrancois">Rabelais</a>, le personnage qui se demande sans cesse dans le <title id="idp757760" level="m">Tiers livre</title> s’il faut se marier ou non, de peur d’être cocu, battu et volé.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp758944">
+      <mentioned id="idp759072">Pantagrueliser</mentioned> : donner des conseils à la manière du personnage de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#rabelaisFrancois" target="references.xml#rabelaisFrancois" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.rabelaisFrancois">Rabelais</a>, Pantagruel, à son ami Panurge, c’est-à-dire en refusant de fournir une réponse définitive.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp772384">Anomalie de pagination de
+la part de l'imprimeur ; à la place de <mentioned id="idp772784">7</mentioned>, il a mis <quote id="idp773200">6</quote>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp833888">Cholières fait allusion aux Grecs.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp838176">Anomalie de pagination de la part de l'imprimeur ; à la place de <mentioned id="idp838576">9</mentioned>, il a mis <quote id="idp838992">8</quote>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp912976">Anomalie de pagination de la part de l'imprimeur ; à la place de <mentioned id="idp913376">11</mentioned>, il a mis <quote id="idp913840">10</quote>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp998720">La <quote id="idp999024">Déesse Anaililide</quote> est <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#venus" target="references.xml#venus" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.venus">Vénus</a>. Cholières évoque le mot <mentioned id="idp1000560">annélide</mentioned>, de <hi id="idp1001008" style="font-style: italic;">annel</hi>, forme ancienne de <mentioned id="idp1001616">anneau</mentioned>. Dans le genre de temple dédié à Vénus dont il est question ici, les prêtresses pratiquaient la <foreign id="idp1002256" xml:lang="la">venia</foreign>, où la grâce spirituelle émanait des pratiques sexuelles. La légende demandait aux hommes venant jouir de ces prêtresses de mettre un anneau au doigt de la statue de la déesse, dont il devenait l’époux symbolique.<lb id="idp1003376"/>
+      <lb id="idp1003504"/>
+
+      <bibl id="idp1003760">
+         <title id="idp1003888" level="a">Annélide</title>, <title id="idp1004544" level="m">Larousse.fr</title> (2009), Éditions Larousse, Paris, Internet, 28 août 2010.</bibl>
+      <lb id="idp1005344"/>
+
+      <bibl id="idp1005600">Walker, Barbara G., <title id="idp1005888" level="m">The Woman's Encyclopedia of Myths and Secrets</title>, New York, HarperOne, 1983.</bibl>
+
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1026720">Le sarcasme de Cholières suggère ou bien que ce n’est pas du tout un dieu dont il est question, mais plutôt d’un amant mortel. Une autre possibilité, vu que le XVIe siècle connaît l’histoire chaldéenne surtout par la médiation des Grecs, est qu’il s’agit de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jupiter" target="references.xml#jupiter" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jupiter">Jupiter</a>, bien connue pour ses incursions chez les mortelles. Pour une analyse des relations entre ces civilisations antiques et leur influence à la Renaissance, voir <bibl id="idp1028880">François Lenormant, <title id="idp1029200" level="m">Civilisation, religion et monuments de l’Assyrie et de la Chaldée</title>, ch. II, <title id="idp1029904" level="a">Les lettres et les sciences</title>, dans François-Dominique Fournier, <title id="idp1030672" level="m">Histoire antique des pays et des hommes de la Méditerranée</title>, Internet, 28 août 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.mediterranee-antique.info/Moyen_Orient/Lenormant/T_5/HAO_52.htm" target="http://www.mediterranee-antique.info/Moyen_Orient/Lenormant/T_5/HAO_52.htm" data-tapas-hashed-target="http-__www.mediterranee-antique.info_Moyen_Orient_Lenormant_T_5_HAO_52.htm">http://www.mediterranee-antique.info/Moyen_Orient/Lenormant/T_5/HAO_52.htm</a>.</bibl>
+
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1213104">Le mot employé par Cholières est une forme du vocable <mentioned id="idp1213488">bakchich</mentioned>. À sa signification moderne de <gloss id="idp1213984">pot de vin</gloss> ou <gloss id="idp1214432">pourboire</gloss> peut s’ajouter <gloss id="idp1214896">une offrande aux dieux</gloss>, dieux évoqués par les dames tartares dans le rite décrit par notre auteur.<lb id="idp1215488"/>
+      <lb id="idp1215616"/>
+      <bibl id="idp1215744">
+         <title id="idp1215872" level="a">BAC(C)HICH, BAK(S)CHICH, subst. masc.</title>, <title id="idp1216544" level="m">Trésor de la langue française informatisé</title> (2004), Centre national de la recherche scientifique, Analyse et traitement informatique de la langue française, Université Nancy II, Internet, 1er septembre 2010.</bibl>
+      <lb id="idp1217632"/>
+      <bibl id="idp1217760">
+         <title id="idp1217888" level="a">Bakchich</title>, <title id="idp1218544" level="m">Wikipédia l'encyclopédie libre</title> (23 juin 2009), Los Angeles, Wikimedia Foundation, Internet, 1er septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://fr.wikipedia.org/wiki/Bakchich" target="http://fr.wikipedia.org/wiki/Bakchich" data-tapas-hashed-target="http-__fr.wikipedia.org_wiki_Bakchich">http://fr.wikipedia.org/wiki/Bakchich</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1237216">
+      <quote id="idp1237344">gregeſque</quote> : un pantalon large.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1269760">
+      <quote id="idp1269888">Cham de Tartarie</quote> : <cit id="idp1270352">
+         <quote id="idp1270480">Cham, <hi id="idp1270768" style="font-style: italic;">en langage Tartaresque, signifie autant que Seigneur: et n'est proprement mot Turquesque, combien que les Turcs en usent, et prononcent Tchaam. Quand donc nous disons le grand Cham, ou Cam de Tartarie, c'est à dire Le grand seigneur</hi>
+         </quote>
+      </cit>.<lb id="idp1271792"/>
+      <lb id="idp1271920"/>
+      <lb id="idp1272048"/>
+      <bibl id="idp1272176">
+         <title id="idp1272304" level="a">Cham</title>, <title id="idp1272848" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 1er septembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1294320">
+      <mentioned id="idp1294448">Cham de Tartarie</mentioned> : <cit id="idp1294864">
+         <quote id="idp1294992">Cham, <hi id="idp1295280" style="font-style: italic;">en langage Tartaresque, signifie autant que Seigneur: et n'est proprement mot Turquesque, combien que les Turcs en usent, et prononcent Tchaam. Quand donc nous disons le grand Cham, ou Cam de Tartarie, c'est à dire Le grand seigneur</hi>
+         </quote>
+      </cit>.<lb id="idp1296416"/>
+      <lb id="idp1296544"/>
+      <bibl id="idp1296672">
+         <title id="idp1296800" level="a">Cham</title>, <title id="idp1297456" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 1er septembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1332992">Les
+<mentioned id="idp1333280">Tenediens</mentioned> sont le peuple gouverné par Tennès.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1348800">Cholières fait allusion à un passage des <title id="idp1349152" level="m">Actions et paroles mémorables</title> de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#maximeValere" target="references.xml#maximeValere" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.maximeValere">Valère Maxime</a> où il est question de châtiments exemplaires pour des crimes d’ordre sexuel. Deux des noms cités (Bibiénus, Carbon Actiénus) sont mal transcrits. Voici le passage de Valère Maxime : <cit id="idp1351328" type="block">
+         <quote id="idp1351616">Mais énumérons aussi rapidement ceux qui pour venger la pudeur outragée n'ont écouté que leur indignation sans recourir aux moyens légaux. Sempronius Musca fit mourir sous le fouet C. Gellius qu'il avait surpris en adultère ; C. Memmius assomma à coups de poings L. Octavius, pris aussi en flagrant délit ; d'autres, surpris dans le même crime, comme Carbon Attiénus par Vibiénus, Pontius par P. Cérennius, subirent la castration. [...] Tous ces hommes offenses suivirent l'impulsion de leur colère et on ne leur en fit pas un crime.</quote>
+      </cit>
+      <lb id="idp1352496"/>
+      <lb id="idp1352624"/>
+      <bibl id="idp1352752">Valère Maxime, <title id="idp1353056" level="m">Actions et paroles mémorables</title> , éd. Constant, Paris, 1836, Livre VI, Ch. 1.13, mis en ligne par Philippe Remacle, <title id="idp1353952" level="m">L’Antiquité grecque et latine du Moyen Âge</title>, Internet, 15 septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://remacle.org/bloodwolf/historiens/valere/livre6.htm" target="http://remacle.org/bloodwolf/historiens/valere/livre6.htm" data-tapas-hashed-target="http-__remacle.org_bloodwolf_historiens_valere_livre6.htm">http://remacle.org/bloodwolf/historiens/valere/livre6.htm</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1356128">L’historien romain <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#maximeValere" target="references.xml#maximeValere" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.maximeValere">Valère Maxime</a> raconte que Zaleucus, gouverneur de la ville de
+Locres, avait promulgué une loi qui exigeait qu’on crève les deux yeux aux personnes condamnées pour adultère. Quand son propre fils le fut, le peuple voulait l’excuser de ce châtiment par estime pour Zeleucus, mais celui-ci, voulant respecter la loi, finit par se crever un oeil, en prenant un autre à son fils afin de satisfaire à la loi tout en laissant l’usage de la vue à tous les deux.<lb id="idp1358352"/>
+      <lb id="idp1358480"/>
+      <bibl id="idp1358608">Valère Maxime, <title id="idp1358912" level="m">Actions et paroles mémorables</title> , éd. Constant, Paris, 1836, Livre VI, Ch. 5.3, mis en ligne par Philippe Remacle, <title id="idp1359696" level="m">L’Antiquité grecque et latine du Moyen Âge</title>, Internet, 15 septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://remacle.org/bloodwolf/historiens/valere/livre6.htm" target="http://remacle.org/bloodwolf/historiens/valere/livre6.htm" data-tapas-hashed-target="http-__remacle.org_bloodwolf_historiens_valere_livre6.htm">http://remacle.org/bloodwolf/historiens/valere/livre6.htm</a>
+      </bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1387024">Dans ses <title id="idp1387312" level="m">Vies parallèles</title>, <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#plutarque" target="references.xml#plutarque" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.plutarque">Plutarque</a> raconte la vie de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#solon" target="references.xml#solon" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.solon">Solon</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1450688">
+      <mentioned id="idp1450816">Candiotte</mentioned> : autre nom pour les Crétoises.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1722208">
+      <mentioned id="idp1722336">Reine d'Aragon</mentioned> : on n’a aucune indication de quelle reine
+il est question.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1828192">Un cadi est un juge musulman qui remplit des fonctions
+civiles, judiciaires et religieuses.<lb id="idp1828560"/>
+      <lb id="idp1828688"/>
+      <bibl id="idp1828816">
+         <title id="idp1828944" level="a">Qadi</title>, <title id="idp1829600" level="m">Wikipédia l'encyclopédie
+libre</title> (17 juin 2010), Los Angeles, Wikimedia Foundation, Internet, 30 septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://fr.wikipedia.org/wiki/Qadi" target="http://fr.wikipedia.org/wiki/Qadi" data-tapas-hashed-target="http-__fr.wikipedia.org_wiki_Qadi">http://fr.wikipedia.org/wiki/Qadi</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1837536">Veuillez consulter la référence <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#sansouinFrancois" target="references.xml#sansouinFrancois" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.sansouinFrancois">François Sansouin</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1867008">Un cadi est un juge musulman qui remplit des fonctions
+civiles, judiciaires et religieuses.<lb id="idp1867264"/>
+      <lb id="idp1867392"/>
+      <bibl id="idp1867520">
+         <title id="idp1867648" level="a">Qadi</title>, <title id="idp1868192" level="m">Wikipédia l'encyclopédie
+libre</title> (17 juin 2010), Los Angeles, Wikimedia Foundation, Internet, 30 septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://fr.wikipedia.org/wiki/Qadi" target="http://fr.wikipedia.org/wiki/Qadi" data-tapas-hashed-target="http-__fr.wikipedia.org_wiki_Qadi">http://fr.wikipedia.org/wiki/Qadi</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2069456">Un cadi est un juge musulman qui remplit des fonctions
+civiles, judiciaires et religieuses.<lb id="idp2069712"/>
+      <lb id="idp2069840"/>
+      <bibl id="idp2069968">
+         <title id="idp2070096" level="a">Qadi</title>, <title id="idp2070752" level="m">Wikipédia l'encyclopédie
+libre</title> (17 juin 2010), Los Angeles, Wikimedia Foundation, Internet, 30 septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://fr.wikipedia.org/wiki/Qadi" target="http://fr.wikipedia.org/wiki/Qadi" data-tapas-hashed-target="http-__fr.wikipedia.org_wiki_Qadi">http://fr.wikipedia.org/wiki/Qadi</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2176032">
+      <mentioned id="idp2176160">Enrôler avec les confrères de la lune</mentioned> : Enrôler
+sur la liste des cocus. Voir <bibl id="idp2176736">
+         <title id="idp2176864" level="a">Lune</title>, <title id="idp2177408" level="m">Centre National
+de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 6 octobre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2236416">
+      <quote id="idp2236544">Agouer (s')</quote> : <cit id="idp2236960">
+         <quote id="idp2237088">s'étouffer, s'étrangler</quote>
+      </cit>.<lb id="idp2237536"/>
+      <lb id="idp2237664"/>
+      <bibl id="idp2237792">
+         <title id="idp2237920" level="a">Agouer (s')</title>, <title id="idp2238576" level="m">Dictionnaire bourbonnais</title>, Projet Babel, Internet, 8 janvier 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2356624">La phrase <quote id="idp2356912">Saül est parmi les prophètes</quote> fait allusion à deux occasions dans le livre de I Samuel de l'Ancien Testament. Ici, il s'agit du chapitre 10, versets 5 à 6 où le prophète Samuel dit à Saül : <cit id="idp2357728" type="block">
+         <quote id="idp2358016">Après cela, tu arriveras à Guibéa-Elohim, où se trouve une garnison de Philistins. En entrant dans la ville, tu rencontreras une troupe de prophètes descendant du haut lieu, précédés du luth, du tambourin, de la flûte et de la harpe et prophétisant eux-mêmes. L'Esprit de l'Eternel te saisira, tu prophétiseras avec eux, et tu seras changé en un autre homme.</quote>
+      </cit>
+
+      <bibl id="idp2359024">
+         <title id="idp2359152" level="a">
+            <mentioned id="idp2359520">1 Samuel 10</mentioned> 1 Samuel 10 French : Louis Segond (1910)</title>, <title id="idp2360128" level="m">Biblos</title> (2004-2010), Biblos.com, Internet, 18 octobre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://lsg.saintebible.com/1_samuel/10.htm" target="http://lsg.saintebible.com/1_samuel/10.htm" data-tapas-hashed-target="http-__lsg.saintebible.com_1_samuel_10.htm">http://lsg.saintebible.com/1_samuel/10.htm</a>.</bibl>
+      <lb id="idp2361904"/>
+
+      <bibl id="idp2362160">
+         <title id="idp2362288" level="a">Saul</title>, <title id="idp2362944" level="m">Wikipédia l'encyclopédie libre</title> (12 octobre 2010), Los Angeles, Wikimedia Foundation, Internet, 14 octobre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://en.wikipedia.org/wiki/Saul" target="http://en.wikipedia.org/wiki/Saul" data-tapas-hashed-target="http-__en.wikipedia.org_wiki_Saul">http://en.wikipedia.org/wiki/Saul</a>.</bibl>
+
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2547328">
+      <mentioned id="idp2547456">Martin-Bâton</mentioned> : <cit id="idp2547888">
+         <quote id="idp2548016">s. m. Homme armé d'un bâton, et, par extension, le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit>. Il faut ajouter que dans notre corpus, <cit id="idp2548720">
+         <quote id="idp2548848">le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit> sert aussi à battre la femme.<lb id="idp2549472"/>
+      <lb id="idp2549600"/>
+      <bibl id="idp2549728">
+         <title id="idp2549856" level="a">Martin-Bâton</title>, <title id="idp2550416" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 26 mai 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2558432">
+      <cit id="idp2558560">
+         <quote id="idp2558688">À la parfin, loc. adverb. tombée en désuétude et signifiant : à la fin dernière</quote>
+      </cit>.<lb id="idp2559168"/>
+      <lb id="idp2559296"/>
+      <bibl id="idp2559424">
+         <title id="idp2559552" level="a">Parfin</title>, <title id="idp2560208" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77),  The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 28 septembre 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2750320">
+      <mentioned id="idp2750448">Garbuge</mentioned> : parfois grabuge, signifie querelle, tumulte ou désordre ; du provençal <mentioned id="idp2751040">garboui</mentioned>.<lb id="idp2751456"/>
+      <lb id="idp2751584"/>
+      <bibl id="idp2751712">L. E. Kastner, <title id="idp2752000" level="m">A Glossary of Colloquial and Popular French for the Use of English Readers</title>, London, Butler &amp; Tanner Ltd., 1929, <title id="idp2752736" level="m">Google Livres</title>, Internet, 14 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2805584">
+      <quote id="idp2805712">Zibeline</quote> : <cit id="idp2806128">
+         <quote id="idp2806256">s. f. Sorte de martre de Sibérie à poil très-fin. On le dit aussi de La peau de cet animal employée comme fourrure. <hi id="idp2806768" style="font-style: italic;">Une robe de chambre de zibeline. Un manchon de zibeline. Les zibelines les plus noires sont les plus belles</hi>. On dit aussi, adjectivement, <hi id="idp2807488" style="font-style: italic;">Martre</hi> ou <hi id="idp2808208" style="font-style: italic;">Marte zibeline</hi>
+         </quote>
+      </cit>.<lb id="idp2808896"/>
+      <lb id="idp2809024"/>
+      <bibl id="idp2809152">
+         <title id="idp2809280" level="a">Zibeline</title>, <title id="idp2809936" level="m">Dictionnaire de l'Académie française en ligne</title> (1835), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 17 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2811264">
+      <quote id="idp2811392">Rangifère</quote> : <cit id="idp2811808">
+         <quote id="idp2811936">Terme d'histoire naturelle. Cerf rangifère, ou, substantivement, le rangifère, le renne</quote>
+      </cit>.<lb id="idp2812512"/>
+      <lb id="idp2812640"/>
+      <bibl id="idp2812768">
+         <title id="idp2812896" level="a">Rangifère</title>, <title id="idp2813552" level="m">Dictionnaire de l'Académie française en ligne</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 17 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2830176">Anomalie de pagination de la part de l'imprimeur ; à la place de <mentioned id="idp2830576">60</mentioned>, il a mis <quote id="idp2830992">6</quote>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2905248">Le mot employé par Cholières est une forme du vocable <mentioned id="idp2905632">bakchich</mentioned>. À sa signification moderne de <gloss id="idp2906128">pot de vin</gloss> ou <gloss id="idp2906576">pourboire</gloss> peut s’ajouter <gloss id="idp2907040">une offrande aux dieux</gloss>, dieux évoqués par les dames tartares dans le rite décrit par notre auteur.<lb id="idp2907632"/>
+      <lb id="idp2907760"/>
+      <listBibl id="idp2907888">
+         <bibl id="idp2908016">
+            <title id="idp2908144" level="a">BAC(C)HICH, BAK(S)CHICH, subst. masc.</title>, <title id="idp2908704" level="m">Trésor de la langue française informatisé</title> (2004), Centre national de la recherche scientifique, Analyse et traitement informatique de la langue française, Université Nancy II, Internet, 1er septembre 2010.</bibl>
+         <lb id="idp2909792"/>
+         <bibl id="idp2909920">
+            <title id="idp2910048" level="a">Bakchich</title>, <title id="idp2910704" level="m">Wikipédia l'encyclopédie libre</title> (23 juin 2009), Los Angeles, Wikimedia Foundation, Internet, 1er septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://fr.wikipedia.org/wiki/Bakchich" target="http://fr.wikipedia.org/wiki/Bakchich" data-tapas-hashed-target="http-__fr.wikipedia.org_wiki_Bakchich">http://fr.wikipedia.org/wiki/Bakchich</a>.</bibl>
+      </listBibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2960960">
+      <mentioned id="idp2961088">Morfier</mentioned> ou <mentioned id="idp2961536">Morfer</mentioned> : <gloss id="idp2961952">manger (goulûment)</gloss>.<lb id="idp2962384"/>
+      <lb id="idp2962512"/>
+      <bibl id="idp2962640">
+         <title id="idp2962768" level="a">Morfer</title>, <title id="idp2963312" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 20 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3068624">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3079472">Cholières fait allusion aux noms des quinze royaumes situés en Afrique de l'Ouest à l'époque.<lb id="idp3079936"/>
+      <lb id="idp3080064"/>
+      <bibl id="idp3080192">Kalck, Pierre, <title id="idp3080480" level="a">Pour une Localisation du Royaume de Gaoga</title>, <title id="idp3081168" level="m">The Journal of African History</title>, vol. 13, (1972), Cambridge University Press, p. 533.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3109376">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3113200">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3139168">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3140912">
+      <mentioned id="idp3141040">Trupelu</mentioned> : Individu grossier, mendiant, imbécile.<lb id="idp3141552"/>
+      <lb id="idp3141680"/>
+      <bibl id="idp3141808">Philipot, Emmanuel, <title id="idp3142096" level="m">Trois farces du recueil de Londres : recherches sur l'ancien théâtre français</title>, 1931, rpt. Genève, Slatkine, 1975, p. 69. <title id="idp3143008" level="m">Google Livres</title>, Internet, 21 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3145600">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3156816">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3161552">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3164048">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3171296">Cholières parle des Sénégalais.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3202144">
+      <cit id="idp3202272">
+         <quote id="idp3202400">GOGUE (go-gh') s. f. 1. Terme vieilli. Plaisanterie, divertissement. Être dans les gogues</quote>
+      </cit>.<lb id="idp3202976"/>
+      <lb id="idp3203104"/>
+      <bibl id="idp3203232">
+         <title id="idp3203360" level="a">Gogue</title>, <title id="idp3204016" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 22 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3230800">
+      <quote id="idp3230928">Abuna</quote> : Titre en arabe pour l'archevêque éthiopien qui signifie <gloss id="idp3231488">notre pére</gloss>.<lb id="idp3231904"/>
+      <lb id="idp3232032"/>
+      <bibl id="idp3232160">
+         <title id="idp3232288" level="a">Ethiopian Orthodox church</title>, <title id="idp3232848" level="m">Encyclopædia Britannica Online</title> (2010), Encyclopædia Britannica, Internet, 4 novembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church" target="http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church" data-tapas-hashed-target="http-__www.britannica.com_EBchecked_topic_194189_Ethiopian-Orthodox-church">http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3331376">
+      <quote id="idp3331504">Abuna</quote> : Titre en arabe pour l'archevêque éthiopien qui signifie <gloss id="idp3332064">notre pére</gloss>.<lb id="idp3332480"/>
+      <lb id="idp3332608"/>
+      <bibl id="idp3332736">
+         <title id="idp3332864" level="a">Ethiopian Orthodox church</title>, <title id="idp3333536" level="m">Encyclopædia Britannica Online</title> (2010), Encyclopædia Britannica, Internet, 4 novembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church" target="http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church" data-tapas-hashed-target="http-__www.britannica.com_EBchecked_topic_194189_Ethiopian-Orthodox-church">http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3391040">
+      <cit id="idp3391168">
+         <quote id="idp3391296">Coup, <hi id="idp3391584" style="font-style: italic;">ou</hi> Coupau, <hi id="idp3392272" style="font-style: italic;">Que nous disons Cocu, c'est celuy duquel la femme s'abbandonne à autre</hi>, Curuca</quote>
+      </cit>.<lb id="idp3393248"/>
+      <lb id="idp3393376"/>
+      <bibl id="idp3393504">
+         <title id="idp3393632" level="a">Coup</title>, <title id="idp3394288" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 23 novemebre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3432128">
+      <mentioned id="idp3432256">Incucurbiter</mentioned> : <gloss id="idp3432672">Transformer en citrouille</gloss>.<lb id="idp3433104"/>
+      <lb id="idp3433232"/>
+      <bibl id="idp3433360">
+         <title id="idp3433488" level="a">Incucurbitation</title>, <title id="idp3434144" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 23 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3750448">Le mot employé par Cholières est une forme du vocable <mentioned id="idp3750832">bakchich</mentioned>. À sa signification moderne de <gloss id="idp3751328">pot de vin</gloss> ou <gloss id="idp3751776">pourboire</gloss> peut s’ajouter <gloss id="idp3752240">une offrande aux dieux</gloss>, dieux évoqués par les dames tartares dans le rite décrit par notre auteur.<lb id="idp3752832"/>
+      <lb id="idp3752960"/>
+      <listBibl id="idp3753088">
+         <bibl id="idp3753216">
+            <title id="idp3753344" level="a">BAC(C)HICH, BAK(S)CHICH, subst. masc.</title>, <title id="idp3753904" level="m">Trésor de la langue française informatisé</title> (2004), Centre national de la recherche scientifique, Analyse et traitement informatique de la langue française, Université Nancy II, Internet, 1er septembre 2010.</bibl>
+         <lb id="idp3754992"/>
+         <bibl id="idp3755120">
+            <title id="idp3755248" level="a">Bakchich</title>, <title id="idp3755904" level="m">Wikipédia l'encyclopédie libre</title> (23 juin 2009), Los Angeles, Wikimedia Foundation, Internet, 1er septembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://fr.wikipedia.org/wiki/Bakchich" target="http://fr.wikipedia.org/wiki/Bakchich" data-tapas-hashed-target="http-__fr.wikipedia.org_wiki_Bakchich">http://fr.wikipedia.org/wiki/Bakchich</a>.</bibl>
+      </listBibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3823248">
+      <mentioned id="idp3823376">Cham de Tartarie</mentioned> : <cit id="idp3823792">
+         <quote id="idp3823920">Cham, <hi id="idp3824208" style="font-style: italic;">en langage Tartaresque, signifie autant que Seigneur: et n'est proprement mot Turquesque, combien que les Turcs en usent, et prononcent Tchaam. Quand donc nous disons le grand Cham, ou Cam de Tartarie, c'est à dire Le grand seigneur.</hi>
+         </quote>
+      </cit>
+      <lb id="idp3825104"/>
+      <lb id="idp3825232"/>
+      <bibl id="idp3825360">
+         <title id="idp3825488" level="a">Cham</title>, <title id="idp3826144" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 1er septembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3860064">
+      <mentioned id="idp3860192">Cham de Tartarie</mentioned> : <cit id="idp3860608">
+         <quote id="idp3860736">Cham, <hi id="idp3861024" style="font-style: italic;">en langage Tartaresque, signifie autant que Seigneur: et n'est proprement mot Turquesque, combien que les Turcs en usent, et prononcent Tchaam. Quand donc nous disons le grand Cham, ou Cam de Tartarie, c'est à dire Le grand seigneur.</hi>
+         </quote>
+      </cit>
+      <lb id="idp3862032"/>
+      <lb id="idp3862160"/>
+      <bibl id="idp3862288">
+         <title id="idp3862416" level="a">Cham</title>, <title id="idp3863072" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 1er septembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3934816">
+      <cit id="idp3934944">
+         <quote id="idp3935072">Coup, <hi id="idp3935360" style="font-style: italic;">ou</hi> Coupau, <hi id="idp3935936" style="font-style: italic;">Que nous disons Cocu, c'est celuy duquel la femme s'abbandonne à autre</hi>, Curuca</quote>
+      </cit>.<lb id="idp3936912"/>
+      <lb id="idp3937040"/>
+      <bibl id="idp3937168">
+         <title id="idp3937296" level="a">Coup</title>, <title id="idp3937952" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 23 novemebre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3949728">
+      <mentioned id="idp3949856">Incucurbiter</mentioned> : <gloss id="idp3950272">Transformer en citrouille</gloss>.<lb id="idp3950704"/>
+      <lb id="idp3950832"/>
+      <bibl id="idp3950960">
+         <title id="idp3951088" level="a">Incucurbitation</title>, <title id="idp3951744" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 23 novembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4059440">
+      <quote id="idp4059568">Carouane</quote> : Ancienne orthographe du mot <mentioned id="idp4060032">caravane</mentioned>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4188656">
+      <mentioned id="idp4188784">Sucrée</mentioned> : <gloss id="idp4189200">femme rusée</gloss>.<lb id="idp4189632"/>
+      <lb id="idp4189760"/>
+      <bibl id="idp4189888">
+         <title id="idp4190016" level="a">Sucrer</title>, <title id="idp4190672" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 3 janvier 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4215856">
+      <mentioned id="idp4215984">r’amẽmoiue</mentioned> : Du verbe <mentioned id="idp4216448">Rememorer</mentioned> parfois écrit comme <mentioned id="idp4216928">ramemoirer</mentioned> qui veut dire <gloss id="idp4217376">remettre en mémoire</gloss>.<lb id="idp4217824"/>
+      <lb id="idp4217952"/>
+      <bibl id="idp4218080">
+         <title id="idp4218208" level="a">Rememorer</title>, <title id="idp4218752" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 3 janvier 2011</bibl>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4258432">Nom utilisé pour le Cuba à l'époque d’après le nom du <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#ferdinandIIAragon" target="references.xml#ferdinandIIAragon" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.ferdinandIIAragon">Roi Ferdinand</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4264128">L’étymologie de <mentioned id="idp4264432">Guyane</mentioned> est d’origine indigène, et veut dire dans le dialecte guanao, celui de la population indienne du delta de l’Orénoque, <cit id="idp4265120">
+         <quote id="idp4265248">sans nom, ce qu’on ne peut nommer</quote>
+      </cit>. La Guyane serait donc la terre <cit id="idp4265760">
+         <quote id="idp4265888">qu’on n’ose nommer, la terre sacrée, la maison de l’Être suprême</quote>
+      </cit>.<lb id="idp4266432"/>
+      <lb id="idp4266560"/>
+      <bibl id="idp4266688">
+         <title id="idp4266816" level="a">Guyane</title>, <title id="idp4267360" level="m">Wiktionnaire</title> (14 novembre 2010), Los Angeles, Wikimedia Foundation, Internet, 3 janvier.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4333216">
+      <mentioned id="idp4333344">Tarteveller</mentioned> : <cit id="idp4333760">
+         <quote id="idp4333888">Jouer de la tartevelle ; plaisanter, faire le fou</quote>
+      </cit>.<lb id="idp4334336"/>
+      <lb id="idp4334464"/>
+      <bibl id="idp4334592">
+         <title id="idp4334720" level="a">Tarteveller</title>, <title id="idp4335264" level="m">Centre National
+de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 2 décembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4917936">
+      <mentioned id="idp4918064">Pennasserie</mentioned> : <cit id="idp4918480">
+         <quote id="idp4918608">Ornement formé de plumes</quote>
+      </cit>. Cholières reprend verbatim la phrase de la <title id="idp4919168" level="m">Cosmographie universelle</title> d’<a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#thevetAndre" target="references.xml#thevetAndre" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.thevetAndre">André Thévet</a>, mais l’orthographe de ce mot est faux dans le texte de <title id="idp4921152" level="m">La forest nuptiale</title>.<lb id="idp4921696"/>
+      <lb id="idp4921824"/>
+      <bibl id="idp4921952">Huguet, Edmond, <title id="idp4922240" level="m">Dictionnaire de la langue française du seizième siècle</title>, Paris, Didier, 1961, t. 5.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4929440">
+      <quote id="idp4929568">Chuter</quote> : <cit id="idp4929984">
+         <quote id="idp4930112">Crier chut</quote>
+      </cit> ou faire taire quelqu’un.<lb id="idp4930608"/>
+      <lb id="idp4930736"/>
+      <bibl id="idp4930864">
+         <title id="idp4930992" level="a">Chuter</title>, <title id="idp4931648" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77),  The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 4 janvier 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5018000">
+      <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#eginhard" target="references.xml#eginhard" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.eginhard">Éginhard (Einhard)</a> n’est pas enterré à Olbiopoli (le nom d’une ancienne colonie grecque à l’embouchure de l’actuel fleuve Dniepr en Ukraine), mais à Seligenstadt, ville donnant sur le <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#mein" target="references.xml#mein" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.mein">Main</a> en Allegmagne.<lb id="idp5020512"/>
+      <lb id="idp5020640"/>
+      <bibl id="idp5020768">Belin de Ballu, Eugène, <title id="idp5021088" level="m">Olbia : cité antique du littoral nord de la mer Noire</title>, Leiden, Brill, 1972, p. 21, <title id="idp5021776" level="m">Google Livres</title>, Internet, 5 janvier 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5180320">
+      <quote id="idp5180448">Abuna</quote> : Titre en arabe pour l'archevêque éthiopien qui signifie <gloss id="idp5181008">notre pére</gloss>.<lb id="idp5181424"/>
+      <lb id="idp5181552"/>
+      <bibl id="idp5181680">
+         <title id="idp5181808" level="a">Ethiopian Orthodox church</title>, <title id="idp5182368" level="m">Encyclopædia Britannica Online</title> (2010), Encyclopædia Britannica, Internet, 4 novembre 2010. <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church" target="http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church" data-tapas-hashed-target="http-__www.britannica.com_EBchecked_topic_194189_Ethiopian-Orthodox-church">http://www.britannica.com/EBchecked/topic/194189/Ethiopian-Orthodox-church</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5211840">
+      <quote id="idp5211968">Grécisant</quote> : <cit id="idp5212384">
+         <quote id="idp5212512">Celui qui est attaché aux usages des Grecs en matière de religion</quote>
+      </cit>.<lb id="idp5213040"/>
+      <lb id="idp5213168"/>
+      <bibl id="idp5213296">
+         <title id="idp5213424" level="a">Grécisant</title>, <title id="idp5214080" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 14 décembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5225168">
+      <quote id="idp5225296">Basilien</quote> : <cit id="idp5225712">
+         <quote id="idp5225840">Religieux, religieuse de l'ordre de Saint-Basile</quote>
+      </cit>. Veuillez consulter aussi la référence <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#cesareeBasileDe" target="references.xml#cesareeBasileDe" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.cesareeBasileDe">Basile de Césarée</a>.<lb id="idp5227424"/>
+      <lb id="idp5227552"/>
+      <bibl id="idp5227680">
+         <title id="idp5227808" level="a">Basilien</title>, <title id="idp5228352" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 14 décembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5250320">
+      <quote id="idp5250448">Grécisant</quote> : <cit id="idp5250864">
+         <quote id="idp5250992">Celui qui est attaché aux usages des Grecs en matière de religion</quote>
+      </cit>.<lb id="idp5251520"/>
+      <lb id="idp5251648"/>
+      <bibl id="idp5251776">
+         <title id="idp5251904" level="a">Grécisant</title>, <title id="idp5252560" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 14 décembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5337184">Veuillez consulter la référence <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#garmanes" target="references.xml#garmanes" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.garmanes">Garmanes</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5392480">Anomalie de pagination de la part de l'imprimeur ; à la place de <mentioned id="idp5392880">131</mentioned>, il a mis <quote id="idp5393344">129</quote>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5513472">
+      <quote id="idp5513600">Druyde</quote> : <cit id="idp5514016">
+         <quote id="idp5514144">s. m. C'est le nom des vieux Prestres Gaulois</quote>
+      </cit>.<lb id="idp5514592"/>
+      <lb id="idp5514720"/>
+      <bibl id="idp5514848"> 
+         <title id="idp5515104" level="a">Druyde</title>, <title id="idp5515648" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 20 décembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5632048">
+      <quote id="idp5632176">Anabaptiste</quote> : <cit id="idp5632592">
+         <quote id="idp5632720">Membre d'une secte protestante, d'abord répandue en Allemagne, et soutenant que, le baptême ne devant être administré qu'aux enfants ayant atteint l'âge de raison, il faut baptiser une deuxième fois les chrétiens baptisés avant cet âge</quote>
+      </cit>.<lb id="idp5633616"/>
+      <lb id="idp5633744"/>
+      <bibl id="idp5633872">
+         <title id="idp5634000" level="a">Anabaptiste, subst. masc.</title>, <title id="idp5634560" level="m">Trésor de la langue française informatisé</title> (2004), Centre national de la recherche scientifique, Analyse et traitement informatique de la langue française, Université Nancy II, Internet, 22 décembre 2010.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5709536">
+      <quote id="idp5709664">Agouer (s')</quote> : <cit id="idp5710080">
+         <quote id="idp5710208">s'étouffer, s'étrangler</quote>
+      </cit>.<lb id="idp5710656"/>
+      <lb id="idp5710784"/>
+      <bibl id="idp5710912">
+         <title id="idp5711040" level="a">Agouer (s')</title>, <title id="idp5711584" level="m">Dictionnaire bourbonnais</title>, Projet Babel, Internet, 8 janvier 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5715216">
+      <mentioned id="idp5715344">Drachmer</mentioned> : du grec, prendre, saisir.<lb id="idp5715808"/>
+      <lb id="idp5715936"/>
+      <bibl id="idp5716064">
+         <title id="idp5716192" level="a">Drachme</title>, <title id="idp5716848" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 8 janvier 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5730224">
+      <mentioned id="idp5730352">Sémondre</mentioned> : inviter, convier à une cérémonie ou à quelque action publique.<lb id="idp5730928"/>
+      <lb id="idp5731056"/>
+      <bibl id="idp5731184">Cayrou, Gaston, <title id="idp5731472" level="a">Sémondre</title>, <title id="idp5732016" level="m">Dictionnaire du français classique: la langue du XVIIe sicèle</title>, Paris, Klincksieck, 1924, rééd. Paris, Librairie Générale Française, 2000, Imprimé.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5792048">Il est impossible de déterminer précisément à quelle branche de la famille Scipion appartient celui-ci, connu par les noms <mentioned id="idp5792576">Sallustio</mentioned> et <mentioned id="idp5793024">Salvitto</mentioned> ou <mentioned id="idp5793472">Salutio</mentioned>, qui était peut-être aussi le nom d’un acteur auquel ce Scipio ressemblait.<lb id="idp5794064"/>
+      <lb id="idp5794192"/>
+      <bibl id="idp5794320">
+         <title id="idp5794448" level="a">The Lost Scipios or How the Scipios Died Out</title>, <title id="idp5795024" level="m">United Nations of Roma Victrix</title> (9 décembre 2008), UNRV.com, Internet, 8 janvier 2011. <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.unrv.com/forum/index.php?showtopic=9225" target="http://www.unrv.com/forum/index.php?showtopic=9225" data-tapas-hashed-target="http-__www.unrv.com_forum_index.php-showtopic-9225">http://www.unrv.com/forum/index.php?showtopic=9225</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5803952">Voir <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#lentule" target="references.xml#lentule" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.lentule">Lentule</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5807168">Voir <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#metelle" target="references.xml#metelle" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.metelle">Metelle</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp5832752">Veuillez consulter la référence <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#sajas" target="references.xml#sajas" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.sajas">Sajas</a>.</note>
+</notes>

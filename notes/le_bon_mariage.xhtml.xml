@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1173232"> Ancienne orthographe de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jeromeSaint" target="references.xml#jeromeSaint" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jeromeSaint">Jérome</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1223488">
+      <quote id="idp1223616">Hedibiam</quote> : Lettre CXX de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jeromeSaint" target="references.xml#jeromeSaint" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jeromeSaint">St. Jérôme</a> dans lequel il répond aux 12 questions de Hédibia sur l'Écriture sainte . </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1546448">
+      <quote id="idp1546576">Hieronymus Platus</quote>: Anncienne orthographe de <mentioned id="idp1547040">
+         <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#peresDeLeglise" target="references.xml#peresDeLeglise" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.peresDeLeglise">Père</a> Jérôme Platus</mentioned>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1937840">
+      <quote id="idp1937968">Chaldaique</quote>:  Référence aux <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#chaldeens" target="references.xml#chaldeens" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.chaldeens">Chaldéens</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp1974336">
+      <quote id="idp1974464">Chaldaique</quote>: Référence aux <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#chaldeens" target="references.xml#chaldeens" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.chaldeens">Chaldéens</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2165440">
+      <quote id="idp2165568">le ſage</quote> est une référence à Ben Sirac, auteur de l'Ecclesiastique.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2171232">
+      <quote id="idp2171360">Sage</quote>est une référence à Ben Sirac, auteur de l'Ecclesiastique</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2273568">
+      <foreign id="idp2273696" xml:lang="la">Iacobi</foreign>, nom donné à Saint <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jacquesSaint" target="references.xml#jacquesSaint" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jacquesSaint">Jacques</a> dans la version latine de la Bible, <gloss id="idp2275600">la Vulgate</gloss>. Veuillez consulter les <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#epitres" target="references.xml#epitres" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.epitres">Épîtres du Nouveau Testament</a> pour en savoir plus.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2490608">
+      <quote id="idp2490736">Inſtit</quote>: Référence à <title id="idp2491200" level="m">L'institution de la religion chrétienne</title>, veuillez voir la référence de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#calvinJean" target="references.xml#calvinJean" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.calvinJean">Jean Calvin</a> pour en savoir plus.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2812352">
+      <quote id="idp2812480">Iacobi</quote>, nom donné à Saint <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jacquesSaint" target="references.xml#jacquesSaint" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jacquesSaint">Jacques</a> dans la version latine de la Bible, <gloss id="idp2814144">la Vulgate</gloss>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2868688">Référence à <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#christJesus" target="references.xml#christJesus" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.christJesus">Jésus Christ</a>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3214880">
+      <cit id="idp3215008">
+         <quote id="idp3215136">Dans le Bible, <gloss id="idp3215424">Sion</gloss> désigne la ville de Jérusalem et, par extension, tout ce qui personnifie la présence et la benediction de Dieu</quote>
+      </cit>.<lb id="idp3216208"/>
+      <bibl id="idp3216336">
+         <title id="idp3216464" level="a">Sion</title>, <title id="idp3217120" level="m">Wikipédia l'encyclopédie libre</title> (24 octobre 2011), Los Angeles, Wikimedia Foundation, Internet, 3 novembre 2011. <a xmlns="http://www.w3.org/1999/xhtml" href="http://fr.wikipedia.org/wiki/Sion" target="http://fr.wikipedia.org/wiki/Sion" data-tapas-hashed-target="http-__fr.wikipedia.org_wiki_Sion">http://fr.wikipedia.org/wiki/Sion</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3746368">
+      <title id="idp3746496" level="m">Du Voile Des Vierges</title> (en lat. <foreign id="idp3747184" xml:lang="la">Velandis Virginibus</foreign>) Oeuvre de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#tertullien" target="references.xml#tertullien" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.tertullien">Tertullien</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp3826592">Référence à la vierge <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#marie" target="references.xml#marie" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.marie">Marie</a>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4287616">
+      <soCalled id="idp4287792">Sententia libri Ethicorum</soCalled>, oeuvre de Saint Thomas d'Aquin, écrite en 1271-72.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp4301152">Saint <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jeromeSaint" target="references.xml#jeromeSaint" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jeromeSaint">Jérôme</a> a confondu deux femmes de l'antiquité, Martia et <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#catonisPorcia" target="references.xml#catonisPorcia" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.catonisPorcia">Portia</a>, qui est la fille de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#catonDUtique" target="references.xml#catonDUtique" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.catonDUtique">Caton d'Utique</a> et aussi la très vertueuse femme de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#brutus" target="references.xml#brutus" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.brutus">Brutus</a>: elle se tue après avoir appris que son mari est mort suite à l'assassinat de Jules César. Comme le dit Pierre Bayle, <cit id="idp4306112">
+         <quote id="idp4306240">Saint Jérôme... a converti en deux personnes les deux noms d'une seule femme. Ce qu'il y a de certain est que la réponse, qu'il attribue à Martie, est du même caractère que celle qu'il donne à Porcie. Il lui étoit avantageux de les distinguer; car il ne cherchait qu'à grossir le nombre de pareils exemples.</quote>
+      </cit> (p.792).<listBibl id="idp4307280">
+       
+         <bibl id="idp4307536">
+            <title id="idp4307664" level="a">Porcie</title>, <title id="idp4308208" level="m">Dictionnaire historique et critique</title> 1711, Internet, 12 avril 2012.</bibl>
+      </listBibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp7175120">Saint <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jeromeSaint" target="references.xml#jeromeSaint" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jeromeSaint">Jérôme</a> a confondu deux femmes de l'antiquité, Martia et <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#catonisPorcia" target="references.xml#catonisPorcia" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.catonisPorcia">Portia</a>, qui est la fille de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#catonDUtique" target="references.xml#catonDUtique" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.catonDUtique">Caton d'Utique</a> et aussi la très vertueuse femme de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#brutus" target="references.xml#brutus" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.brutus">Brutus</a>: elle se tue après avoir appris que son mari est mort suite à l'assassinat de Jules César. Comme le dit Pierre Bayle, <cit id="idp7179712">
+         <quote id="idp7179840">Saint Jérôme... a converti en deux personnes les deux noms d'une seule femme. Ce qu'il y a de certain est que la réponse, qu'il attribue à Martie, est du même caractère que celle qu'il donne à Porcie. Il lui étoit avantageux de les distinguer; car il ne cherchait qu'à grossir le nombre de pareils exemples.</quote>
+      </cit> (p.792).<listBibl id="idp7180848">
+     
+         <bibl id="idp7181104">
+            <title id="idp7181232" level="a">Porcie</title>, <title id="idp7181744" level="m">Dictionnaire historique et critique</title> 1711, Internet, 12 avril 2012.</bibl>
+      </listBibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp16717472">Saint <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jeromeSaint" target="references.xml#jeromeSaint" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jeromeSaint">Jérôme</a> a confondu deux femmes de l'antiquité, Martia et <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#catonisPorcia" target="references.xml#catonisPorcia" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.catonisPorcia">Portia</a>, qui est la fille de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#catonDUtique" target="references.xml#catonDUtique" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.catonDUtique">Caton d'Utique</a> et aussi la très vertueuse femme de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#brutus" target="references.xml#brutus" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.brutus">Brutus</a>: elle se tue après avoir appris que son mari est mort suite à l'assassinat de Jules César. Comme le dit Pierre Bayle, <cit id="idp16722432">
+         <quote id="idp16722560">Saint Jérôme... a converti en deux personnes les deux noms d'une seule femme. Ce qu'il y a de certain est que la réponse, qu'il attribue à Martie, est du même caractère que celle qu'il donne à Porcie. Il lui étoit avantageux de les distinguer; car il ne cherchait qu'à grossir le nombre de pareils exemples.</quote>
+      </cit> (p.792).<listBibl id="idp16723600">
+       
+         <bibl id="idp16723856">
+            <title id="idp16723984" level="a">Porcie</title>, <title id="idp16724528" level="m">Dictionnaire historique et critique</title> 1711, Internet, 12 avril 2012.</bibl>
+      </listBibl>
+   </note>
+</notes>

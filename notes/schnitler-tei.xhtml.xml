@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="uncertainty" resp="dokub" id="Schn1_237" anchored="true">Innholdsfortegnelsen, dvs. s. VII-XII, er utelatt. Det kan genereres ut fra kapitlenes overskrift-attributter.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_280" anchored="true">
+      <p id="Schn1_281">Den fyldigste fremstilling av <name type="place" id="Schn1_283">Norges</name> grensehistorie i sin helhet er fremdeles den som er gitt i <name type="person" id="Schn1_286">E. J.
+Jessen-Schardeböll</name>: Det Kongerige <name type="place" id="Schn1_289">Norge</name>, I, <name type="place" id="Schn1_292">Kbh.</name> 
+         <date id="Schn1_295" when="1763-00-00">1763</date>, s. 161‒263: Cap. IV. Om <name type="place" id="Schn1_298">Norges</name> Grændser.</p>
+
+      <p id="Schn1_302">Av betydelig interesse er også <name type="person" id="Schn1_304">Nils Marelius'</name> avhandlinger i Kungl. Wetenskaps-Academiens Handlingar
+<date id="Schn1_307" when="1771-00-00">1771</date>: «Om Land- och Fjällryggarne i <name type="place" id="Schn1_310">Sverige</name> och <name type="place" id="Schn1_313">Norrige</name>» og «Om Gränsen imellan <name type="place" id="Schn1_316">Sverige</name> och <name type="place" id="Schn1_319">Norrige</name>», samt
+hans avhandling sammesteds <date id="Schn1_322" when="1763-00-00">1763</date>: «Anmärkningar Rörande <name type="place" id="Schn1_325">Herjedalens</name> och <name type="place" id="Schn1_328">Jämtlands</name> Gränts emot <name type="place" id="Schn1_331">Norrige</name>».</p>
+
+      <p id="Schn1_335">Det samme gjelder <name type="person" id="Schn1_337">Rudolf Kjellén</name>: Studier öfver <name type="place" id="Schn1_340">Sveriges</name> politiska gränser, i Ymer <date id="Schn1_343" when="1899-00-00">1899</date>, s. 283‒331,
+jfr. samme forfatters Inledning till <name type="place" id="Schn1_346">Sveriges</name> geografi, <name type="place" id="Schn1_349">Göteborg</name> 
+         <date id="Schn1_352" when="1900-00-00">1900</date>, spesielt avsnitt III: Det nuvarande terri<milestone id="idp246240" unit="line" type="inWord"/>toriets folkrättsliga omfatning (s. 64‒89).</p>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_403" anchored="true">Se <name type="person" id="Schn1_405">O. A. Johnsen</name>: <name type="place" id="Schn1_408">Finmarkens</name> politiske Historie, Kra. <date id="Schn1_411" when="1923-00-00">1923</date>, s. 24 flg. Dette helt på førstehånds arkiv<milestone id="idp272560" unit="line" type="inWord"/>studier byggede arbeide er hovedverket for Finnmarks-grensens vedkommende.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_465" anchored="true">For traktatenes tekst, se <name type="person" id="Schn1_467">Laursen</name>: <name type="place" id="Schn1_470">Danmark-Norges</name> Traktater; <name type="person" id="Schn1_473">Rydberg</name>: <name type="place" id="Schn1_476">Sverges</name> traktater med
+främmande magter.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_503" anchored="true">Se <name type="person" id="Schn1_505">Yngvar Nielsen</name>: Kampen om <name type="place" id="Schn1_508">Trondhjem</name> 
+      <date id="Schn1_511" when="1657-00-00">1657‒1660</date>, <name type="place" id="Schn1_514">Trh.</name> 
+      <date id="Schn1_517" when="1897-00-00">1897</date>, s. 93‒104 og 167‒176.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_847" anchored="true">
+      <name type="place" id="Schn1_848">Sverges</name> traktater, VIII, 2, s. 261.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_1449" anchored="true">Se <name type="person" id="Schn1_1451">E. A. Thomle</name>: Forskjellige Slægtebogs-Optegnelser. I. Familien <name type="person" id="Schn1_1454">Schnitler</name>, Personalhist. Tidsskr.
+2 Række 2 Bind, <name type="place" id="Schn1_1457">Kbh.</name> 
+      <date id="Schn1_1460" when="1887-00-00">1887</date>, side 169 flg. Dette er en hovedkilde til <name type="person" id="Schn1_1463">Schnitlers</name> personlige livshistorie. Se også
+<name type="person" id="Schn1_1466">Kr. Nissens</name> artikel om <name type="person" id="Schn1_1469">Schnitler</name> i Norsk biogr. leks. XII, <name type="place" id="Schn1_1472">Oslo</name> 
+      <date id="Schn1_1475" when="1954-00-00">1954</date>, s. 490‒498.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_1511" anchored="true">Smlgn. <name type="person" id="Schn1_1513">E. A. Thomle</name>: Familien <name type="person" id="Schn1_1516">Hofgaard</name> i <name type="place" id="Schn1_1519">Norge</name>, <name type="place" id="Schn1_1522">Kra.</name> 
+      <date id="Schn1_1525" when="1911-00-00">1911</date>, s. 2‒3, note 3.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_1647" anchored="true">
+      <name type="person" id="Schn1_1648">Ovenstad</name>: Militærbiografier, II, s. 165.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_1676" anchored="true">Sst., s. 372.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_2189" anchored="true">Bilag 1, <ref type="Sidehenvisning" id="Schn1_2191">s. XXVI</ref>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_2204" anchored="true">Bilag 2, <ref type="Sidehenvisning" id="Schn1_2206">s. XXVIII</ref>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_2302" anchored="true">Bilag 3, <ref type="Sidehenvisning" id="Schn1_2304">s. XXX</ref>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_3353" anchored="true">
+      <name type="person" id="Schn1_3354">Helset</name> (skrives også <name type="person" id="Schn1_3357">Hælset</name> eller <name type="person" id="Schn1_3360">Helsæt</name>) var en tidligere lærer og ikke ordinert finnemisjonær, som
+fulgte <name type="person" id="Schn1_3363">Schnitler</name> helt fra <name type="place" id="Schn1_3366">Namdalen</name> til <name type="place" id="Schn1_3369">Varanger</name> og tilbake til <name type="place" id="Schn1_3372">Trondhjem</name>. Hans opgave var først og fremst å være
+tolk overfor samene, men han fungerte også som skriver og karttegner. Han blev senere tollbetjent i <name type="place" id="Schn1_3375">Tønsberg</name>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_4271" anchored="true">Se <name type="person" id="Schn1_4273">Ovenstad</name>: Militærbiografier I, s. 65.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_4288" anchored="true">Se Norsk biografisk leksikon V, s. 324 flg.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_5565" anchored="true">I Riksarkivets grensearkiv er i nyere tid også optatt som kart nr. 143(?) et «Kart over fjordene fra
+<name type="place" id="Schn1_5567">Beyern</name> til <name type="place" id="Schn1_5570">Kvænangen</name>. [<name type="person" id="Schn1_5573">P. Schnitler</name>?] (uttatt fra «Alm. Saml. b. Amtskarter» nr. 33». Dette er dog bare et
+ytterst tarvelig riss over fjordene i <name type="place" id="Schn1_5576">Nordland</name>, har ikke noget med <name type="person" id="Schn1_5579">Schnitler</name> å gjøre og bør fjernes fra grense<milestone id="idp2661936" unit="line" type="inWord"/>arkivet.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="uncertainty" resp="dokub" id="Schn1_5955" anchored="true">Her sto rettelsene trykt. Disse er lagt inn i teksten.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="uncertainty" resp="dokub" id="Schn1_13363" anchored="true">Trykket i forordet</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="uncertainty" resp="dokub" id="Schn1_13383" anchored="true">Trykket i forordet</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="uncertainty" resp="dokub" id="Schn1_54863" anchored="true">Denne er nok til bind 2</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="uncertainty" resp="dokub" id="Schn1_60974" anchored="true">Dette blir dumt pga. hvordan vi takler tabellene</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="uncertainty" resp="dokub" id="Schn1_61041" anchored="true">Se nederst på forrige side</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_119374" anchored="true">[Tallene klusset med. Summen stemmer ikke.]</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="footnote" id="Schn1_119448" anchored="true">[Tallene klusset med. Summen stemmer ikke.]</note>
+</notes>

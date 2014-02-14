@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp59232">Notez que Desportes est l’oncle de Mathurin Régnier, l’auteur de maints poèmes misogames dans le <title id="idp59712" level="m">Cabinet satyrique</title> et autres recueils.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp60528">Nous avons établi le texte selon l’édition des <title id="idp60896" level="m">Diverses amours et autres oeuvres meslées</title> de Desportes procurée par Victor E. Graham (Genève, Droz, 1963).</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp80496">Veuillez consulter la référence <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#promethee" target="references.xml#promethee" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.promethee">Prométhée</a> pour l'histoire de l'Aigle.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp87936">Il s’agit bien sûr de la boîte de <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#pandore" target="references.xml#pandore" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.pandore">Pandore</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp149568">
+      <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#cerbere" target="references.xml#cerbere" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.cerbere">Cerbère</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp151008">Les <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#erinyes" target="references.xml#erinyes" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.erinyes">furies</a>, selon Graham.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp219296">
+      <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#junon" target="references.xml#junon" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.junon">Junon</a>.</note>
+</notes>

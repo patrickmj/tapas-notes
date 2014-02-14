@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp100512">
+      <mentioned id="idp100688">Boete</mentioned> : Ancien orthographe de <mentioned id="idp101152">boîte</mentioned>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp134592">Allusion à <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#mercure" target="references.xml#mercure" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.mercure">Mercure</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp175296">
+      <mentioned id="idp175424">Gorgonne</mentioned> : Veuillez consulter les références <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#meduse" target="references.xml#meduse" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.meduse">Méduse</a> et <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#stheno" target="references.xml#stheno" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.stheno">Sthéno</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp182976">
+      <mentioned id="idp183104">daigne</mentioned>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp185248">
+      <mentioned id="idp185376">Hièble</mentioned>. L'odeur fétide de ces fleurs explique que Jamyn la classe parmi les plantes nocives.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp186144">
+      <mentioned id="idp186272">Aubifoin</mentioned> : <gloss id="idp186688">Bleuet</gloss>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp195936">Allusion à <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#jupiter" target="references.xml#jupiter" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.jupiter">Jupiter</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp204368">
+      <mentioned id="idp204496">Inachide</mentioned> : Nom des descendants d'Inachos. Ici, le poète fait allusion à <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#io" target="references.xml#io" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.io">Io</a>.<lb id="idp206064"/>
+      <lb id="idp206192"/>
+      <bibl id="idp206320">
+         <title id="idp206448" level="a">Inachia, Inachis</title>, <title id="idp206992" level="m">Greek Myth Index</title> (2007), Myth Index, Internet, 29 juillet 2011. <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.mythindex.com/greek-mythology/I/Inachis.html" target="http://www.mythindex.com/greek-mythology/I/Inachis.html" data-tapas-hashed-target="http-__www.mythindex.com_greek-mythology_I_Inachis.html">http://www.mythindex.com/greek-mythology/I/Inachis.html</a>.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp214944">Jamyn fait allusion au livre 22 de l'<title id="idp215248" level="m">
+         <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#iliade" target="references.xml#iliade" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.iliade">Iliade</a>
+      </title> d'<a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#homere" target="references.xml#homere" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.homere">Homere</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp251504">
+      <mentioned id="idp251632">Chat-Huant</mentioned> : <cit id="idp252048">
+         <quote id="idp252176">Oiseau de proie de la famille des Nocturnes dont l'apparence ou le cri rappelle quelque peu le chat</quote>
+      </cit>.<lb id="idp252560"/>
+      <lb id="idp252688"/>
+      <bibl id="idp252816">
+         <title id="idp252944" level="a">Chat-Huant</title>, <title id="idp253600" level="m">Centre National de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 3 août 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp257024">Veuillez consulter la référence les <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#erinyes" target="references.xml#erinyes" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.erinyes">Érinyes</a>.</note>
+</notes>

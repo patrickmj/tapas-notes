@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp92208">La gravure <a xmlns="http://www.w3.org/1999/xhtml" href="martires.xml#confrerie" target="martires.xml#confrerie" data-tapas-hashed-target="Ћ.._.._anthology_images_martires.xml.confrerie">La confrerie des martyrs"</a> ainsi que les vers <a xmlns="http://www.w3.org/1999/xhtml" href="sur_la_jalousie.xml#deuxieme_strophe" target="sur_la_jalousie.xml#deuxieme_strophe" data-tapas-hashed-target="Ћ.._.._anthology_texts_original_sur_la_jalousie.xml.deuxieme_strophe">"Sur la jalousie"</a> du Sieur de Sigognes illustrent l'ampleur de la confrèrie des cocus.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp99472">
+      <mentioned id="idp99648">Martin-Bâton</mentioned> : <cit id="idp100080">
+         <quote id="idp100208">s. m. Homme armé d'un bâton, et, par extension, le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit>. Il faut ajouter que dans notre corpus, <cit id="idp100848">
+         <quote id="idp100976">le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit> sert aussi à battre la femme.<lb id="idp101648"/>
+      <lb id="idp101776"/>
+      <bibl id="idp101904">
+         <title id="idp102032" level="a">Martin-Bâton</title>, <title id="idp102800" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 26 mai 2011.</bibl>
+   </note>
+</notes>

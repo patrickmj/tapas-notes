@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp110192">A partir d’ici c’est le texte de <hi id="idp110544" style="font-style: italic;">ADVIS SALUTAIRE</hi> avec un orthographe et ponctuation légèrement modernisés.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp113424">E.g. :</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp117840">
+      <mentioned id="idp118016">Martin-Bâton</mentioned> : <cit id="idp118448">
+         <quote id="idp118576">s. m. Homme armé d'un bâton, et, par extension, le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit>. Il faut ajouter que dans notre corpus, <cit id="idp119280">
+         <quote id="idp119408">le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit> sert aussi à battre la femme.<lb id="idp120032"/>
+      <lb id="idp120160"/>
+      <bibl id="idp120288">
+         <title id="idp120416" level="a">Martin-Bâton</title>, <title id="idm6144" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 26 mai 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp147536">A part l’orthographe, le texte est identique, à cette exception près </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp181632">Le même texte, mais qui se termine en plus complet.</note>
+</notes>

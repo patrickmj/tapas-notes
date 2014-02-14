@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp102288">note 2 : l’ostentation dans les habits</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp103728">
+      <mentioned id="idp103856">Martin-Bâton</mentioned> : <cit id="idp104288">
+         <quote id="idp104416">s. m. Homme armé d'un bâton, et, par extension, le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit>. Il faut ajouter que dans notre corpus, <cit id="idp105120">
+         <quote id="idp105248">le bâton personnifié qui sert à battre les animaux récalcitrants</quote>
+      </cit> sert aussi à battre la femme.<lb id="idp30608"/>
+      <lb id="idp30736"/>
+      <bibl id="idp30864">
+         <title id="idp30992" level="a">Martin-Bâton</title>, <title id="idp31616" level="m">Émile Littré : Dictionnaire de la langue française</title> (1872-77), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 26 mai 2011.</bibl>
+   </note>
+</notes>

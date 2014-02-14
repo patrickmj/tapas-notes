@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp166256">
+      <mentioned id="idp166384">Soulas</mentioned> : <cit id="idp166800">
+         <quote id="idp166928">s. m. Consolation, allégement</quote>
+      </cit>.<lb id="idp167392"/>
+      <lb id="idp167520"/>
+      <bibl id="idp167648">
+         <title id="idp167776" level="a">Soulas</title>, <title id="idp168432" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 18 avril 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp234928">
+      <mentioned id="idp235056">renc</mentioned> = <mentioned id="idp235440">rang</mentioned>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp298000">Le mariage d'<a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#adam" target="references.xml#adam" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.adam">Adam</a> avec <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#eve" target="references.xml#eve" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.eve">Ève</a>.</note>
+</notes>

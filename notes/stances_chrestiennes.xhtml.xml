@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp112128">
+      <mentioned id="idp112304">Soulas</mentioned> : <cit id="idp112720">
+         <quote id="idp112848">s. m. Consolation, allégement</quote>
+      </cit>.<lb id="idp113312"/>
+      <lb id="idp113440"/>
+      <bibl id="idp113568">
+         <title id="idp113696" level="a">Soulas</title>, <title id="idp114400" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 18 avril 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idm4864">
+      <mentioned id="idm4736">Soulas</mentioned> : <cit id="idm4320">
+         <quote id="idm4096">s. m. Consolation, allégement</quote>
+      </cit>.<lb id="idm3632"/>
+      <lb id="idm3504"/>
+      <bibl id="idm3376">
+         <title id="idm3248" level="a">Soulas</title>, <title id="idp180128" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 18 avril 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp204432">
+      <mentioned id="idp204560">Vueil</mentioned> : <cit id="idp204976">
+         <quote id="idp205104">volonté</quote>
+      </cit>.<lb id="idp205520"/>
+      <lb id="idp205648"/>
+      <bibl id="idp205776">
+         <title id="idp205904" level="a">Vueil</title>, <title id="idp206560" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 21 juillet 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp215184">
+      <mentioned id="idp215312">Chevance</mentioned> : <cit id="idp215728">
+         <quote id="idp215856">s.f. Le bien qu'on a</quote>
+      </cit>.<lb id="idp216272"/>
+      <lb id="idp216400"/>
+      <bibl id="idp216528">
+         <title id="idp216656" level="a">Chevance</title>, <title id="idp217312" level="m">Dictionnaire de l'Académie française en ligne</title> (1762), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 22 juillet 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp230368">
+      <mentioned id="idp230496">ards</mentioned> = ardents</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp257616">
+      <mentioned id="idp257744">ferme</mentioned>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp295584">
+      <mentioned id="idp295712">Vueil</mentioned> : <cit id="idp296128">
+         <quote id="idp296256">volonté</quote>
+      </cit>.<lb id="idp296672"/>
+      <lb id="idp296800"/>
+      <bibl id="idp296928">
+         <title id="idp297056" level="a">Vueil</title>, <title id="idp297712" level="m">Jean Nicot : Le Thresor de la langue francoyse</title> (1606), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 21 juillet 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp310272">
+      <mentioned id="idp310400">femme</mentioned>
+   </note>
+</notes>

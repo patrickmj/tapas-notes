@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp32704">Selon M. Screech, l'auteur est probablement Thomas Sébillet.<lb id="idp33104"/>
+      <lb id="idp33232"/>
+      <bibl id="idp33360">Screech, M. A., <title id="idp33648" level="a">An interpretation of the Querelle des
+Amyes</title>, Bibliothèque d'Humanisme et Renaissance, XXI, 1959, p. 120.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp117168">L'idée d'une traduction est factice.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp164336">
+      <quote id="idp164464">Redonder</quote> : <cit id="idp164880">
+         <quote id="idp165008">Estre superflu, surabonder dans le discours</quote>
+      </cit>.<lb id="idp165456"/>
+      <lb id="idp165584"/>
+      <bibl id="idp165712">
+         <title id="idp165840" level="a">Redonder</title>, <title id="idp166544" level="m">Dictionnaire de l'Académie française en ligne</title> (1694), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 5 août 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp215408">Allusion au rencontre entre <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#enee" target="references.xml#enee" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.enee">Énee</a> et <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#didon" target="references.xml#didon" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.didon">Didon</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idm3344">Allusion à <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#lavinie" target="references.xml#lavinie" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.lavinie">Lavinie</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp252160">Allusion à <a xmlns="http://www.w3.org/1999/xhtml" href="references.xml#cleopatre" target="references.xml#cleopatre" data-tapas-hashed-target="Ћ.._.._back_matter_references_references.xml.cleopatre">Cléopâtre</a>.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp343104">
+      <quote id="idp343232">Destourber</quote> ou <quote id="idp343680">Détourber</quote> : <cit id="idp344096">
+         <quote id="idp344224">Perturber, empêcher, gêner, troubler qqn ou qqc</quote>
+      </cit>.<lb id="idp344720"/>
+      <lb id="idp344848"/>
+      <bibl id="idp344976">
+         <title id="idp345104" level="a">Détourber</title>, <title id="idp345760" level="m">Centre National de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 11 août 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp387552">
+      <quote id="idp387680">Jenin</quote> : <cit id="idp388096">
+         <quote id="idp388224">Sot, niais, cocu</quote>
+      </cit>.<lb id="idp388640"/>
+      <lb id="idp388768"/>
+      <bibl id="idp388896">
+         <title id="idp389024" level="a">Jenin</title>, <title id="idp389680" level="m">Centre National de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 12 août 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp398976">
+      <quote id="idp399104">Espantaille</quote> ou <quote id="idp399552">Épantaille</quote> : <list id="idp399968" type="ordered">
+
+         <item id="idp400496" n="1">
+            <cit id="idp400960">
+               <quote id="idp401088">Mannequin habillé, assemblage d'éléments donnant l'apparence d'une forme humaine</quote>
+            </cit>.</item>
+
+         <item id="idp402128" n="2">
+            <cit id="idp402496">
+               <quote id="idp402624">Terreur, épouvante</quote>
+            </cit>.</item>
+      </list>
+      <bibl id="idp403056">
+         <title id="idp403184" level="a">Épantaille</title>, <title id="idp403840" level="m">Centre National de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 12 août 2011.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp414384">
+      <quote id="idp414512">Braierie</quote> ou <quote id="idp414960">Braillerie</quote> : <cit id="idp415376">
+         <quote id="idp415504">Cri, tumulte, tapage</quote>
+      </cit>.<lb id="idp415920"/>
+      <lb id="idp416048"/>
+      <bibl id="idp416176">
+         <title id="idp416304" level="a">Braillerie</title>, <title id="idp416848" level="m">Centre National de Ressources Textuelles et Lexicales</title> (2009), CNRTL, Internet, 12 août 2011.</bibl>
+   </note>
+</notes>

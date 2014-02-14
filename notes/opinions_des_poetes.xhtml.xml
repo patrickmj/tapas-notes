@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp56672">
+      <mentioned id="idp56848">Gabeur</mentioned> : <cit id="idp57264">
+         <quote id="idp57392">Moqueur</quote>
+      </cit>.<lb id="idp57856"/>
+      <lb id="idp57984"/>
+      <bibl id="idp58112">
+         <title id="idp58240" level="a">Gabeur</title>, <title id="idp58944" level="m">Le Grand Robert de la langue française version électronique</title> (2011), 2e édition, Dictionnaires le Robert, Internet, 22 octobre 2009.</bibl>
+   </note>
+</notes>

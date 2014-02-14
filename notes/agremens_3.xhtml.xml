@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notes xmlns="http://localhost/tapas" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp154176"> Chercher à se réconcilier avec quelqu'un.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp464256">Le livre manque les pages 28 et 29.</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp600768">
+      <mentioned id="idp600896">Male peſte</mentioned> : <cit id="idp601312">
+         <quote id="idp601488">Imprécation qui emporte une sorte d'étonnement. <hi id="idp601952" style="font-style: italic;">Malepeste que ce potage est chaud!</hi> Il est familier</quote>
+      </cit>.<lb id="idp602768"/>
+      <lb id="idp602896"/>
+      <bibl id="idp603024">
+         <title id="idp603152" level="a">Malepeste</title>, <title id="idp603808" level="m">Dictionnaire de l'Académie française en ligne</title> (1762), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 29 octobre 2009.</bibl>
+   </note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp662640">Le célèbre personnage du <title id="idp662960" level="m">Tiers Livre</title> de Rabelais, Panurge, demande s'il faut se marier. L'auteur traite des anecdotes désagréables concernant les femmes mais également, il démontre l'influence d'Érasme en reconnaissant que certaines unions entre homme et femme peuvent mener à des progrès spirituels. (<title id="idp664064" level="a">François Rabelais</title>, <title id="idp664736" level="m">Encyclopédie Universalis</title> (2009), Paris, Encyclopædia Universalis, Internet, 4 novembre 2009).</note>
+   <note xmlns="http://www.tei-c.org/ns/1.0" id="idp2222032">
+      <mentioned id="idp2222160">Male-peſte</mentioned> : <cit id="idp2222576">
+         <quote id="idp2222704">Imprécation qui emporte une sorte d'étonnement. <hi id="idp2223072" style="font-style: italic;">Malepeste que ce potage est chaud!</hi> Il est familier</quote>
+      </cit>.<lb id="idp2224288"/>
+      <lb id="idp2224416"/>
+      <bibl id="idp2224544">
+         <title id="idp2224672" level="a">Malepeste</title>, <title id="idp2225168" level="m">Dictionnaire de l'Académie française en ligne</title> (1762), The ARTFL Project, Department of Romance Languages and Literatures, University of Chicago, Internet, 29 octobre 2009.</bibl>
+   </note>
+</notes>
